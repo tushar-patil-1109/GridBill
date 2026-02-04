@@ -33,7 +33,7 @@
 
 --- 
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Java (Core application logic)
 - Java Swing (GUI development)
@@ -43,7 +43,7 @@
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 ```text
 Electricity-Billing-System/
