@@ -89,12 +89,12 @@ DriverManager.getConnection(
 
 ## ▶️ How to Run the Project (NetBeans)
 
-- Download or clone the repository
-- Open NetBeans IDE
-- Click File → Open Project
-- Select the Employee-Management-System folder
-- Configure MySQL database
-- Run Splash.java or Login.java
+- 1.Download or clone the repository
+- 2.Open NetBeans IDE
+- 3.Click File → Open Project
+- 4.Select the Employee-Management-System folder
+- 5.Configure MySQL database
+- 6.Run Splash.java or Login.java
 
 ---
 
@@ -102,7 +102,6 @@ DriverManager.getConnection(
 
 ### 1.👤 Admin Dashboard
 </br> <br>
-
 ### 🔐 Login Page
 <img width="784" height="367" alt="Screenshot 2026-02-05 001052" src="https://github.com/user-attachments/assets/8df2762c-ab2c-46d2-86f0-97279ebf3298" />
 </br> <br>
@@ -125,7 +124,6 @@ DriverManager.getConnection(
 
 ### 2.👤 Customer Dashboard
 </br> <br>
-
 ### 🔐 Login Page
 <img width="784" height="367" alt="Screenshot 2026-02-05 001248" src="https://github.com/user-attachments/assets/ca82c6d0-5c10-4c50-ac87-0574024d9f37" />
 </br> <br>
